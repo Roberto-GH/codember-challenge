@@ -1,0 +1,60 @@
+.gradle/
+build/
+target/
+/bin/
+
+gradle.properties
+######################
+# OSX
+######################
+
+.DS_Store
+.svn
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+######################
+# Eclipse
+######################
+
+*.pydevproject
+.project
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+
+######################
+# Intellij
+######################
+
+.idea
+
+######################
+# Vs code
+######################
+
+.vscode
+
+
+######################
+# Temporal jars
+######################
+
+libs

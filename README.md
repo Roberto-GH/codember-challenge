@@ -1,14 +1,13 @@
-# codember-challenge
-Respuestas a challenge codember por midudev
+# **_Codember-challenge_**
 
-https://twitter.com/midudev?s=20&t=10lJLKarpo7eHQPmaTnLLw
+## Respuestas a challenge codember por midudev<br><br>
 
-Codember es un juego y reto de programación que se realiza en el mes de noviembre para la comunidad de midudev.
+# **https://codember.dev**<br>
 
-¿Cómo funciona?
-Cada semana se publica un reto que se debe resolver usando ingenio y programación.
+## Codember es un juego y reto de programación que se realiza en el mes de noviembre para la comunidad de midudev.<br><br>
 
-Cada reto tiene una explicación del problema, pistas e instrucciones de cómo solucionarlo.
+**¿Cómo funciona?**<br>
+Cada semana se publica un reto que se debe resolver usando ingenio y programación. Cada reto tiene una explicación del problema, pistas e instrucciones de cómo solucionarlo.<br><br>
 
-¿Cómo participar?
+**¿Cómo participar?**<br>
 Para participar, inicia sesión en codember.dev con tu cuenta de GitHub y usa la terminal para emprender el reto. Usa el comando help si no sabes por donde empezar.
